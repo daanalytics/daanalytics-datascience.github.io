@@ -8,22 +8,22 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Johnny Hopkins
-description: "Hi I'm Johnny, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Daan Bakboord
+description: "Hi I'm Daan, and I'm a Data Enthusiast.  My passion is collecting, processing, storing and presenting data. I help organizations to use this internal and external data in such a way that they can take action. My goal is simple. A customer must be able to make decisions based on facts in the right context. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+baseurl: "https://www.daanalytics.nl/blogs" # the subpath of your site, e.g. /blog
+url: "https://www.daanalytics.nl" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "London, UK"
-resume_url: /docs/resume.docx
-avatar_image: /img/profile_picture.JPG
+location: "Rotterdam, NL"
+resume_url: /docs/06.2021 CV NL Daan Bakboord DaAnalytics.pdf
+avatar_image: /img/Daan Bakboord - DaAnalytics - headshot.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+linkedln: "https://linkedln.com/in/daanbakboord" # Add your linkedln handle
+github: "https://github.com/daanalytics"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
